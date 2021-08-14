@@ -1,0 +1,9 @@
+{
+    "env":{
+      "PORT": 3002,
+      "AWS_ACCESS_KEY_ID":"AKIAZDVTZBKESL7CTSQG",
+      "AWS_SECRET_KEY": "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",
+      "AWS_BUCKET_NAME": "imageszone",
+      "AWS_REGION": "ap-south-1"
+    }
+  }
